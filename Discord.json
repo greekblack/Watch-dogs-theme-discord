@@ -1,0 +1,74 @@
+{
+  "name": "Watch Dogs 1 Cyber Hack",
+  "description": "Dark cyberpunk hacker vibe inspired by Watch Dogs 1, glitchy teal-neon UI, font is optional.",
+  "version": "1.4.0",
+  "authors": [
+    {
+      "name": "Arthur",
+      "id": "000000000000000000"
+    }
+  ],
+  "semanticColors": {
+    "HDR_PR1MRY": ["#e0e0e0"],
+    "HDR_SCND": ["#888888"],
+    "TXT_N0RM4L": ["#f5f5f5"],
+    "TXT_MUT3": ["#777777"],
+    "1NTRCTV_NRM": ["#00bcd4"],
+    "1NTRCTV_HVR": ["#00fff7"],
+    "1NTRCTV_4CTV": ["#ffffff"],
+    "1NTRCTV_MUT3": ["#555555"],
+    "BG_PR1MRY": ["#0a0a0a"],
+    "BG_SCND": ["#121212"],
+    "BG_SCND_ALT": ["#1e1e1e"],
+    "BG_T3RT": ["#1b1b1b"],
+    "BG_ACC3NT": ["#00fff7"],
+    "BG_MSG_HVR": ["rgba(0, 255, 247, 0.05)"],
+    "BG_MOD_HVR": ["rgba(255, 255, 255, 0.03)"],
+    "BG_MOD_4CTV": ["rgba(255, 255, 255, 0.05)"],
+    "BG_MOD_SLCTD": ["rgba(0, 255, 247, 0.1)"],
+    "BG_MNTND": ["rgba(0, 255, 247, 0.12)"],
+    "BG_MNTND_HVR": ["#00bcd4"],
+    "CHNLTXT_BG": ["#0d0d0d"],
+    "CHAT_INPT_BG": ["#121212"],
+    "CHNLS_DFLT": ["#888888"],
+    "CHNL_1C0N": ["#00fff7"],
+    "TXT_PR1MRY": ["#f5f5f5"],
+    "TXT_L1NK": ["#00fff7"],
+    "THRD_SP1N3": ["#00bcd4"]
+  },
+  "rawColors": {
+    "PRM_100": "#f5f5f5",
+    "PRM_200": "#888888",
+    "PRM_300": "#777777",
+    "PRM_400": "#555555",
+    "PRM_500": "#00bcd4",
+    "PRM_600": "#00fff7",
+    "PRM_700": "#0a0a0a",
+    "PRM_800": "#121212",
+    "BRND_230": "#00bcd4",
+    "BRND_500": "#00fff7",
+    "BRND_560": "#f5f5f5",
+    "R0L3_DFLT": "#777777",
+    "GRN_260": "#00e676",
+    "YLW_260": "#ffea00",
+    "RD_260": "#ff1744",
+    "BLU_330": "#00bcd4",
+    "WHT_500": "#f5f5f5"
+  },
+  "plus": {
+    "customOverlays": true,
+    "icons": {
+      "STS_ONLN": "#00fff7",
+      "STS_1DL3": "#ffea00",
+      "STS_DND": "#ff1744",
+      "STS_OFF": "#555555",
+      "STS_STRM": "#7c4dff"
+    }
+  },
+  "background": {
+    "blur": 0.2,
+    "url": "https://i.imgur.com/ZthpLob_d.webp",
+    "alpha": 0.4
+  },
+  "spec": 2
+}
